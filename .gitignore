@@ -1,0 +1,32 @@
+# Build folders
+[Pp]MSApi/bin/
+[Pp]MSApi/obj/
+bin/
+obj/
+out/
+
+# Visual Studio cache
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Build results
+*.exe
+*.dll
+*.pdb
+
+# Publish profiles
+[Pp]roperties/PublishProfiles/
+
+# Secret config (keep local only)
+appsettings.Development.json
+
+# Node (if frontend added later)
+node_modules/
